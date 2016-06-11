@@ -1,11 +1,11 @@
 # SendSMTP Mail
 Exemplo prático de como utilizar o envio de e-mail autenticado via SMTP AUTH, usando uma conta GMAIL.
 
-![TinderSwipeBastos_animated](https://meucomercioeletronico.com/tutorial/SendSMTPMail.jpg)
+![VIDEO](https://meucomercioeletronico.com/tutorial/SendSMTPMail.jpg)](https://meucomercioeletronico.com/tutorial/sendmail)
 
 Veja funcionando:
 
-![exemplo_online](https://meucomercioeletronico.com/tutorial/exemplo_online.jpg)](https://meucomercioeletronico.com/tutorial/sendmail/)
+![VIDEO](https://meucomercioeletronico.com/tutorial/exemplo_online.jpg)](https://meucomercioeletronico.com/tutorial/sendmail)
 
 ## Instalação e uso
 Basta importar o projeto do Git para o seu editor.
