@@ -27,7 +27,7 @@
     </li>
 </ul>
 <ul class="form-style-1">
-	<div class="info"> Participe, baixe código fonte e teste você tambem:<br> <a href="https://github.com/guilhermeborgesbastos/PushNotification">Baixe agora no Git</a></div>
+	<div class="info"> Participe, baixe código fonte e teste você tambem:<br> <a href="https://github.com/guilhermeborgesbastos/SendSMTPMail">Baixe agora no Git</a></div>
 </ul>
 </form>
 
