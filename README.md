@@ -3,10 +3,14 @@ Exemplo prático de como utilizar o envio de e-mail autenticado via SMTP AUTH, u
 
 ![TinderSwipeBastos_animated](https://meucomercioeletronico.com/tutorial/SendSMTPMail.jpg)
 
+Veja funcionando:
+
+![exemplo_online](https://meucomercioeletronico.com/tutorial/exemplo_online.jpg)](https://meucomercioeletronico.com/tutorial/sendmail/)
+
 ## Instalação e uso
 Basta importar o projeto do Git para o seu editor.
 
-## Configurações e informações úteis ##
+## Estrutura e informações úteis ##
 
 #### index.php
 No arquivo index.php ( Veja arquivo: https://goo.gl/Ft95ro ), temos o formulário de envio de email:
@@ -260,6 +264,8 @@ if (!$mail->send()) {
 </html>
 ```
 
+### Importante
+Após baixar o código e subir para seu servidor online, mude as configurações de autenticação do email para as suas. Caso contrário o envio não irá funcionar.
 
 ### Conclusão
 Com este recurso temos uma maior certeza da entrega, pois o mesmo sendo autenticado oferece garantias de sua procedência .
